@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidSupportLibAds</string>
+
+    <string name="gpx_start_point">GPX start point</string>
+    <string name="gpx_end_point">GPX end point</string>
+
+    <string name="tipo_mapa">Selecione o tipo do mapa</string>
+    <string name="map_type_road">Normal</string>
+    <string name="map_type_hybrid">Hibrido</string>
+    <string name="map_type_satellite">Satelite</string>
+    <string name="map_type_terrain">Terreno</string>
+</resources>
