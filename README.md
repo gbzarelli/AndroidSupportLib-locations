@@ -1,4 +1,4 @@
-# AndroidSupportLib-maps
+# AndroidSupportLib-locations
 Library developed to assist in the development of Android applications with 'Google Play Service Location', with several classes and helper methods. This project uses the AndroidSupportLib library.
 
 How to use AndroidSupportLib-locations in your Android Project:
