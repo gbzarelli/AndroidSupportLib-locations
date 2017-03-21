@@ -22,7 +22,7 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.github.helpdeveloper:AndroidSupportLib:1.2.4'
+    compile 'com.github.helpdeveloper:AndroidSupportLib:1.2.9'
     compile 'com.google.android.gms:play-services-location:10.0.1'
     compile('org.simpleframework:simple-xml:2.7.1') {
         exclude group: 'stax', module: 'stax-api'
